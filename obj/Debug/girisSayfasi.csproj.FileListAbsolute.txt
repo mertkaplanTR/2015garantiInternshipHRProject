@@ -1,0 +1,14 @@
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\bin\Debug\girisSayfasi.exe
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\bin\Debug\girisSayfasi.pdb
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form1.resources
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.csproj.GenerateResource.Cache
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.exe
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.pdb
+c:\users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form2.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form3.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form4.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form5.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form6.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.Form7.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Debug\girisSayfasi.csprojResolveAssemblyReference.cache

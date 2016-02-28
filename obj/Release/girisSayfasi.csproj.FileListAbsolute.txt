@@ -1,0 +1,14 @@
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\bin\Release\girisSayfasi.exe
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\bin\Release\girisSayfasi.pdb
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form1.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form2.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form3.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form4.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form5.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form6.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Form7.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.Properties.Resources.resources
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.csproj.GenerateResource.Cache
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.exe
+C:\Users\mert\documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.pdb
+C:\Users\mert\Documents\visual studio 2013\Projects\girisSayfasi\girisSayfasi\obj\Release\girisSayfasi.csprojResolveAssemblyReference.cache
